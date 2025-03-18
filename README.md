@@ -4,3 +4,4 @@ For this project, I created a ticketing system using Freshdesk. I wanted to fami
 ## Overview
 
 ### Creation of Freshdesk Account
+I created a free Freshdesk account using my email and a company name: "AG Company".
