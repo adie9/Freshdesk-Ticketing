@@ -34,5 +34,10 @@ I submitted a ticket via the "Submit a Ticket" page in the company portal, with 
 
 ![Group_Rule_Success](/images/Group_Rule_Success.png)
 
+### Closing Tickets
+To simulate the role of an agent, I'd take ownership of the ticket by assigning myself to the ticket and change the status to "Pending". Once the issue is resolved, I send an reply email to the user and change the ticket status to "Resolved".
+
+![Resolved_Ticket](/images/Reseolved_Ticket.png)
+
 ## What I Learned
 After completing this project, I was able to familiarize myself with a ticketing system and its processes such as configuring a support email, automating ticket routes, and responding to/closing tickets. I was very keen on the idea of ticket automation, as agents were able to receive tickets based on what group they were in. No one from the group "Billing" would receive tickets addressed to the group "Level 1 IT Support". The automation system provided an overall organized experience.
