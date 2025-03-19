@@ -8,3 +8,5 @@ I created a free Freshdesk account using my email and a company name: "AG Compan
 
 ### Email Server
 I created a new email account to handle the incoming requests from the ticketing system: 
+
+![Support Email](/images/Support_Email.png)
