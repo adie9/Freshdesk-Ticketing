@@ -12,3 +12,5 @@ I created a free Freshdesk account using my email and a company name: "AG Compan
 I created a new email account to handle the incoming requests from the ticketing system: 
 
 ![Support Email](/images/Support_Email.png)
+
+To test if the email was configured correctly, I sent a test email to see if the request would show up in the ticketing system. 
