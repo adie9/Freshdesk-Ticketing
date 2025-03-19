@@ -24,7 +24,9 @@ Next, I wanted to try and route tickets based on the content found in the reques
 
 ![Group_Creation]
 
-Now that the group was created I needed to create a rule. I navigated to Admin > Automation and clicked on "New Rule". A rule has three components: 1) **Event** (Which just indicates the rule runs upon ticket creation), **Condition** (Sets the conditions for the rule to match), and **Action** (What the rule will do when conditions are met).
+Now that the group was created I needed to create a rule. I navigated to Admin > Automation and clicked on "New Rule". A rule has three components: 1) **Event** (Which just indicates the rule runs upon ticket creation), **Condition** (Sets the conditions for the rule to match), and **Action** (What the rule will do when conditions are met). For the "Send Password Resets to Level 1 IT Support" rule, I set the Condition to "Subject" or "Description" containing "password reset", and the Action to "Assign to Group 'Level 1 IT Support'".
+
+![Password_Reset_Rule]
 
 ## What I Learned
 After completing this project, I was able to familiarize myself with a ticketing system and its processes such as configuring a support emai, automating ticket routes, and responding to/closing tickets.
