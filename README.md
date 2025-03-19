@@ -29,4 +29,4 @@ Now that the group was created I needed to create a rule. I navigated to Admin >
 ![Password_Reset_Rule](/images/Password_Reset_Rule.png)
 
 ## What I Learned
-After completing this project, I was able to familiarize myself with a ticketing system and its processes such as configuring a support emai, automating ticket routes, and responding to/closing tickets.
+After completing this project, I was able to familiarize myself with a ticketing system and its processes such as configuring a support email, automating ticket routes, and responding to/closing tickets.
