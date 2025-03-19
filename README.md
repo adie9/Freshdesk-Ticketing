@@ -4,7 +4,9 @@ For this project, I created a ticketing system using Freshdesk. I wanted to fami
 ## Overview
 
 ### Portal Setup
-I created a free Freshdesk account using my email and a company name: "AG Company". 
+I created a free Freshdesk account using my email and a company name: "AG Company". After creating the account, I was created with the ticketing page:
+
+![Ticket_Dashboard](/images/Ticket_Dashboard.png)
 
 ### Email Server
 I created a new email account to handle the incoming requests from the ticketing system: 
