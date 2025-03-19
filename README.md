@@ -19,5 +19,12 @@ To test if the email was configured correctly, I sent a test email to see if the
 
 ![Test_Email_Success](/images/Test_Email_Success.png)
 
+### Ticket Automation
+Next, I wanted to try and route tickets based on the content found in the request. For example, if a request contained "password reset", the ticket should be automatically routed to the group "Level 1 IT Support". To do this, I first needed to create the group. I navigated to Admin > Groups and created the group:
+
+![Group_Creation]
+
+Now that the group was created I needed to create a rule. I navigated to Admin > Automation and clicked on "New Rule". A rule has three components: 1) **Event** 2) **Condition** 3) **Action**
+
 ## What I Learned
 After completing this project, I was able to familiarize myself with a ticketing system and its processes such as configuring a support emai, automating ticket routes, and responding to/closing tickets.
