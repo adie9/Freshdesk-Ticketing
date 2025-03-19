@@ -30,9 +30,9 @@ Now that the group was created I needed to create a rule. I navigated to Admin >
 
 I submitted a ticket via the "Submit a Ticket" page in the company portal, with "password reset" in the Subject and Description, and checked the Group that the ticket was assigned to once it popped up in the ticketing system:
 
-![Company_Home]
+![Submit_A_Ticket](/images/Submit_A_Ticket.png)
 
-![Submit_A_Ticket]
+![Group_Rule_Success](/images/Group_Rule_Success.png)
 
 ## What I Learned
 After completing this project, I was able to familiarize myself with a ticketing system and its processes such as configuring a support email, automating ticket routes, and responding to/closing tickets. I was very keen on the idea of ticket automation, as agents were able to receive tickets based on what group they were in. No one from the group "Billing" would receive tickets addressed to the group "Level 1 IT Support". The automation system provided an overall organized experience.
