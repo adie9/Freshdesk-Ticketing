@@ -9,7 +9,7 @@ I created a free Freshdesk account using my email and a company name: "AG Compan
 ![Ticket_Dashboard](/images/Ticket_Dashboard.png)
 
 ### Email Server
-I created a new email account to handle the incoming requests from the ticketing system. I navigated to Admin > Email and clicked "New support email": 
+I created a new email account to handle the incoming requests from the ticketing system. I navigated to Admin > Email Servers and clicked "New support email": 
 
 ![Support Email](/images/Support_Email.png)
 
